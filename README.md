@@ -11,11 +11,12 @@ If you are mobile, clicking on "Get My Square" will re-calculate your square bas
 
 ### Distant Square
 You may also touch (or click) any other point on the map and the application will automatically re-calculate the square for that point.<br>
-
-![holysquare](https://cloud.githubusercontent.com/assets/24712835/22521217/fc7501c4-e8bf-11e6-8be3-4bd45ca5d98e.PNG)
+![mobile](https://cloud.githubusercontent.com/assets/24712835/24195511/b5d830b0-0f02-11e7-8e82-a7fa6f904630.PNG)
 
 ## Download
 <a href="https://github.com/4Z1KD/HolySquare/raw/master/HolySquare.apk">Download HolySquare .apk file (Android Users)</a>
 
 ## Web Page
 <a href="https://www.iarc.org/iarc/getmysquare.html">https://www.iarc.org/iarc/getmysquare.html</a>
+
+![holysquare](https://cloud.githubusercontent.com/assets/24712835/22521217/fc7501c4-e8bf-11e6-8be3-4bd45ca5d98e.PNG)
