@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png" />
+
 # HolySquare
 Automatic Holyland Square finder<br>
 
