@@ -17,6 +17,6 @@ You may also touch (or click) any other point on the map and the application wil
 <a href="https://github.com/4Z1KD/HolySquare/raw/master/HolySquare.apk" target="_blank">Download HolySquare .apk file (Android Users)</a>
 
 ## Web Page
-<a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank">https://www.iarc.org/iarc/getmysquare.html</a>
+<a href="https://www.iarc.org/holysquare/" target="_blank">https://www.iarc.org/holysquare/</a>
 
 ![holysquare](https://cloud.githubusercontent.com/assets/24712835/22521217/fc7501c4-e8bf-11e6-8be3-4bd45ca5d98e.PNG)
