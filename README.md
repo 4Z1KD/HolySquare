@@ -4,6 +4,7 @@ Automatic Holyland Square finder<br>
 ## Usage
 HolySquare will show you a google map with a marker on your estimated location.<br>
 On the top of the screen you will find a button saying "Get My Square", and your current square right next to it.<br>
+![getmysquare](https://cloud.githubusercontent.com/assets/24712835/24194611/62a4f3cc-0eff-11e7-810e-cc20b31e30ec.PNG)
 
 ### Mobile Stations
 If you are mobile, clicking on "Get My Square" will re-calculate your square based on your new location.<br>
