@@ -4,7 +4,7 @@
 <h1> HolySquare</h1>
 אפליקציה למציאת ריבוע ארץ הקודש<br>
 
-<h2> Usage</h2>
+<h2> שימוש</h2>
 במסך הראשי ב HolySquare תוכל לראות מפה של גוגל ועליה סמן שמצביע על מיקומך הנוכחי.<br>
 בחלק העליון של המסך תמצא לחצן - "Get My Square", ולידו את ריבוע ארץ הקודש שאתה נמצא בו עכשיו.<br>
 <img src='https://raw.githubusercontent.com/4Z1KD/HolySquare/master/GetMySquare.PNG'>
