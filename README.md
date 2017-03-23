@@ -5,16 +5,15 @@
 אפליקציה למציאת ריבוע ארץ הקודש<br>
 
 <h2> Usage</h2>
-במסך הראשי ב HolySquare תוכל לראות מפה של גוגל ועליה סמן שמצביע על מיקומך הנוכחי<br>
-בחלק העליון של המסך תמצא לחצן - "Get My Square", ולידו את ריבוע ארץ הקודש שאתה נמצא בו עכשיו<br>
+במסך הראשי ב HolySquare תוכל לראות מפה של גוגל ועליה סמן שמצביע על מיקומך הנוכחי.<br>
+בחלק העליון של המסך תמצא לחצן - "Get My Square", ולידו את ריבוע ארץ הקודש שאתה נמצא בו עכשיו.<br>
 <img src='https://raw.githubusercontent.com/4Z1KD/HolySquare/master/GetMySquare.PNG'>
 
 <h3> תחנות ניידות</h3>
-If you are mobile, clicking on "Get My Square" will re-calculate your square based on your new location.<br>
-אם אתה נייד, לחיצה על "Get My Square" תחשב מחדש מה הריבוע שאתה נמצא בו על סמך מיקומך החדש
+אם אתה נייד, לחיצה על "Get My Square" תחשב מחדש מה הריבוע שאתה נמצא בו על סמך מיקומך החדש.
 
 <h3> ריבועים מרוחקים</h3>
-לחיצה על כל נקודה בגבולות ארץ הקודש, תגרום לאפליקציה לחשב ולהציג את הריבוע של אותה נקודה<br>
+לחיצה על כל נקודה בגבולות ארץ הקודש, תגרום לאפליקציה לחשב ולהציג את הריבוע של אותה נקודה.<br>
 <img src='https://raw.githubusercontent.com/4Z1KD/HolySquare/master/Mobile.PNG'>
 
 <h2> הורדה</h2>
