@@ -17,7 +17,7 @@
 <img src='https://raw.githubusercontent.com/4Z1KD/HolySquare/master/Mobile.PNG'>
 
 <h2> הורדה</h2>
-<a href="https://github.com/4Z1KD/HolySquare/raw/master/HolySquare.apk" target="_blank">קובץ .apk למשתמשי אנדרויד</a>
+<a href="https://github.com/4Z1KD/HolySquare/raw/master/HolySquare.apk" target="_blank">קובץ .apk למשתמשי אנדרואיד</a>
 
 <h2> דף אינטרנט</h2>
 <div style="direction:ltr; text-align:left"> <a href="https://www.iarc.org/holysquare/" target="_blank">https://www.iarc.org/holysquare/</a></div>
