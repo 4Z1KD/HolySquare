@@ -10,10 +10,10 @@
 <img src='https://raw.githubusercontent.com/4Z1KD/HolySquare/master/GetMySquare.PNG'>
 
 <h3> תחנות ניידות</h3>
-אם אתה נייד, לחיצה על "Get My Square" תחשב מחדש מה הריבוע שאתה נמצא בו על סמך מיקומך החדש.
+אם אתה נייד, לחיצה על "Get My Square" תחשב מחדש ותציג את הריבוע שאתה נמצא בו על סמך מיקומך המעודכן.
 
 <h3> ריבועים מרוחקים</h3>
-לחיצה על כל נקודה בגבולות ארץ הקודש, תגרום לאפליקציה לחשב ולהציג את הריבוע של אותה נקודה.<br>
+לחיצה על כל נקודה בגבולות ארץ הקודש, תחשב ותהציג את הריבוע של אותה נקודה.<br>
 <img src='https://raw.githubusercontent.com/4Z1KD/HolySquare/master/Mobile.PNG'>
 
 <h2> הורדה</h2>
