@@ -23,3 +23,27 @@ You may also touch (or click) any other point on the map and the application wil
 
 ![holysquare](https://cloud.githubusercontent.com/assets/24712835/22521217/fc7501c4-e8bf-11e6-8be3-4bd45ca5d98e.PNG)
 
+
+<div style="direction:rtl; text-align:right">
+<h1> HolySquare</h1>
+אפליקציה למציאת ריבוע ארץ הקודש<br>
+
+<h2> Usage</h2>
+במסך הראשי ב HolySquare תוכל לראות מפה של גוגל ועליה סמן שמצביע על מיקומך הנוכחי<br>
+בחלק העליון של המסך תמצא לחצן - "Get My Square", ולידו את ריבוע ארץ הקודש שאתה נמצא בו עכשיו<br>
+![getmysquare](https://cloud.githubusercontent.com/assets/24712835/24194611/62a4f3cc-0eff-11e7-810e-cc20b31e30ec.PNG)
+
+<h3> תחנות ניידות</h3>
+If you are mobile, clicking on "Get My Square" will re-calculate your square based on your new location.<br>
+אם אתה נייד, לחיצה על "Get My Square" תחשב מחדש מה הריבוע שאתה נמצא בו על סמך מיקומך החדש
+
+<h3> ריבועים מרוחקים</h3>
+לחיצה על כל נקודה בגבולות ארץ הקודש, תגרום לאפליקציה לחשב ולהציג את הריבוע של אותה נקודה<br>
+![mobile](https://cloud.githubusercontent.com/assets/24712835/24195511/b5d830b0-0f02-11e7-8e82-a7fa6f904630.PNG)
+
+<h2> הורדה</h2>
+<a href="https://github.com/4Z1KD/HolySquare/raw/master/HolySquare.apk" target="_blank">Download HolySquare .apk file (Android Users)</a>
+
+<h2> דף אינטרנט</h2>
+<a href="https://www.iarc.org/holysquare/" target="_blank">https://www.iarc.org/holysquare/</a>
+</div>
